@@ -1,0 +1,43 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Donald Tusk ostro o opozycji: Dla bojących się nie ma litości",
+      "description": "były przewodniczący Rady Europejskiej, przewodniczący Europejskiej Partii Ludowej Donald Tusk.\n\nByły prezydent Polski - Donald Tusk /OLIVIER HOSLET /PAP/EPA\nByły prezydent Polski - Donald Tusk/OLIVIER HOSLET /PAP/EPA\nW wywiadzie dla najnowszego wydania \"Polityki\" Tusk, analizując przegraną kandydata KO Rafała Trzaskowskiego w wyborach prezydenckich, wskazał, że uzyskał on maksimum możliwe do osiągnięcia w tych wyborach. ",
+      "icon": "https://i.iplsc.com/byly-prezydent-polski-donald-tusk/000AFOWO8C2A8ARY-C123-F4.webp"
+    },
+    {
+      "id": 2,
+      "title": "Łukasz Szumowski na wakacjach. Były minister wybrał się na hiszpańską wyspę",
+      "description": "Łukasz Szumowski aktualnie wypoczywa na wakacjach. Były minister zdrowia wybrał hiszpańską wyspę Fuerteventurę, gdzie jest upalna pogoda, ciepła woda, piękne widoki oraz plaże. \nWięcej: https://wiadomosci.radiozet.pl/Polska/Polityka/Lukasz-Szumowski-na-wakacjach-Byly-minister-wybral-sie-na-hiszpanska-wyspe-Fuerteventure",
+      "icon": "https://gfx.wiadomosci.radiozet.pl/var/radiozetwiadomosci/storage/images/polska/polityka/lukasz-szumowski-na-wakacjach-byly-minister-wybral-sie-na-hiszpanska-wyspe-fuerteventure/8166737-1-pol-PL/Lukasz-Szumowski-na-wakacjach.-Byly-minister-wybral-sie-na-hiszpanska-wyspe_article_north.webp"
+    },
+    {
+      "id": 3,
+      "title": "Rafał Trzaskowski wrócił z urlopu. Tworzy ruch w cieniu sporów w PO",
+      "description": "Napięcia w PO nie ułatwiają Rafałowi Trzaskowskiemu budowy nowego \"ruchu obywatelskiego\". Jego zręby powstają w partyjnej siedzibie przy ulicy Wiejskiej w Warszawie.",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Rafal_Trzaskowski_2020_Bytom.jpg/180px-Rafal_Trzaskowski_2020_Bytom.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Spokojny awans Rakowa w Pucharze Polski",
+      "description": "Raków Częstochowa wystąpi w 1/16 finału Fortuna Pucharu Polski. W zaległym meczu I rundy rozgrywek zespół prowadzony przez trenera Marka Papszuna pokonał 3:0 Sandecję Nowy Sącz na wyjeździe.",
+      "icon": "http://pilkanozna.pl/images/stories/papszun400krajewski.jpg"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "75",
+      "postId": 2
+    },
+    {
+      "id": 2,
+      "body": "39",
+      "postId": 4
+    }
+  ],
+  "profile": {
+    "name": "sk"
+  }
+}
